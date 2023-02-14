@@ -16,4 +16,5 @@ NOT WORKING?
 - source ~/.bashrc 
 - nvm install 17
 - node -v
+
 [Yes now you have successfully installed node version 17]
